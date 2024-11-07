@@ -1,4 +1,4 @@
-﻿# YesCoin Bot (by dk official)
+# YesCoin Bot (ULTIMATE EDITION)
 
 ## Installation
 
@@ -6,7 +6,19 @@ Install with python
 
 1. Download Python 3.12
 2. Install Module (pip install requests colorama)
-3. Open YesCoin Bot on PC (Telegram Desktop)
+3. Open YesCoin Bot on PC/mobile (Telegram)
+
+
+## Commands for Termux
+
+`pkg update && upgrade -y`<br>
+`pkg install python git -y`<br>
+`pkg install nano`<br>
+`git clone https://https://github.com/Dineshs65663/YES-COIN-BY-DK-.git`<br>
+`cd YesCoin`<br>
+`pip install colorama requests`<br>
+`nano query.txt`<br>
+`python yescoin.py`
 
 ## Features
 
